@@ -1,4 +1,4 @@
-# past Recomendations
+# past Recordations
 ## Motivation:
 
 In a world where memories often fade away in the hustle and bustle of life, PastRecordations aims to be a 
