@@ -3,11 +3,12 @@ body {
     flex-direction: column;
     min-height: 100vh; /* Ensure that the body takes at least the full height of the viewport */
     margin: 0;
+    background-color: #f4f4f4;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 header {
-    background-color: #1a1a1a;
+    background-color: #333;
     color: #fff;
     text-align: center;
 }
