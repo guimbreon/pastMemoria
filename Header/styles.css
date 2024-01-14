@@ -27,7 +27,6 @@ footer {
     background-color: #1a1a1a;
     color: #fff;
 }
-/* Add this to your existing CSS */
 
 #back-to-top-btn {
     display: none;
@@ -60,3 +59,13 @@ nav ul li a {
   color: #fff;
   text-decoration: none;
 }
+
+.contact-link {
+    color: #333; /* Darker color for the links in the address */
+    text-decoration: none;
+}
+
+.contact-link:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
