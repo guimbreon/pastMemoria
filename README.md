@@ -1,7 +1,7 @@
-# past Recordations
+# past Memoria
 ## Motivation:
 
-In a world where memories often fade away in the hustle and bustle of life, PastRecordations aims to be a 
+In a world where memories often fade away in the hustle and bustle of life, pastMemoria aims to be a 
 sanctuary for preserving personal narratives. By providing a space for individuals to share their memories,
 the project seeks to build a timeless archive of collective human experiences.
 
