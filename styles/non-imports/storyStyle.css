@@ -1,0 +1,60 @@
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+/* Add this to your existing CSS */
+
+#back-to-top-btn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#back-to-top-btn:hover {
+    background-color: #555;
+}
+
+
+/* Estilos da seção de conteúdo da história */
+.story-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #2e2e2e;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  font-family: 'Georgia', serif;
+  line-height: 1.8;
+  color: #e0f5e0;
+}
+
+.story-content h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #e0f5e0;
+}
+
+.story-content p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  text-align: justify;
+}

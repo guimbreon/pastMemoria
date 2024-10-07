@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding-bottom: 50px; /* Adicione um espaçamento no final para o footer */
+  background-color: #1a1a1a;
+  color: #f0f0f0;
+  min-height: 100vh; /* Garante que o conteúdo ocupe pelo menos a altura total da janela */
+}
+
+
+header {
+  background-color: #1f4432; /* Verde escuro */
+  padding: 10px;
+}
+
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+header ul li {
+  display: inline;
+}
+
+header ul li a {
+  color: #e0f5e0; /* Tom claro de verde */
+  text-decoration: none;
+  padding: 10px;
+}
+
+header ul li a:hover {
+  background-color: #228b22; /* Verde intermediário */
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #1f4432;
+  color: #e0f5e0;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  z-index: 100; /* Certifique-se de que fique por cima de outros elementos */
+}
+
