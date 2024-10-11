@@ -19,8 +19,9 @@
 }
 
 .story {
-    width: 30%;
-    max-width: 50%;
+    flex: 1 1 30%; /* Largura flexível, mas com base em 30% */
+    max-width: 30%; /* Máximo de 30% de largura */
+    min-width: 250px; /* Definir uma largura mínima */
     margin-bottom: 20px;
     border: 1px solid #444;
     border-radius: 5px;
@@ -33,6 +34,7 @@
     width: 100%;
     height: auto;
 }
+
 
 .story-content {
     padding: 15px;
